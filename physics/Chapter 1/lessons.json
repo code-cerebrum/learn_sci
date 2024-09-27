@@ -1,0 +1,18 @@
+[
+    {
+        "type": "learn",
+        "con": [
+            {"title": "What is Physics?"},
+            {"para": "Physics is the study of how things work in the universe! From tiny particles to massive planets, physics helps us understand the rules that everything follows."},
+            {"img": "1.webp"}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Why is Physics Important?"},
+            {"para": "Physics explains everyday things like how your bike moves, why the sky is blue, and even how electricity powers your devices!"},
+            {"img": "2.webp"}
+        ]
+    }
+]
