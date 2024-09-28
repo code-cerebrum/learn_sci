@@ -14,5 +14,48 @@
             {"para": "Physics explains everyday things like how your bike moves, why the sky is blue, and even how electricity powers your devices!"},
             {"img": "2.webp"}
         ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Physics is Everywhere"},
+            {"para": "Everything around you—from the movement of a car to how sound travels—is related to physics. You use it all the time without even knowing!"},
+            {"img": "3.webp"}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Famous Physicists"},
+            {"para": "People like Isaac Newton and Albert Einstein discovered the rules of physics that help us understand the world today."}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Branches of Physics"},
+            {"para": "Physics has different parts! Some study how things move (mechanics), others study light and sound (optics and acoustics), and some look at electricity and magnets (electromagnetism)."}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Physics in Your Daily Life"},
+            {"para": "Can you think of something you do every day that uses physics? Whether you throw a ball, ride a bike, or flip a light switch, physics is involved!"}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "What You Will Learn in Physics"},
+            {"para": "In this app, you'll learn about forces, energy, electricity, light, sound, and much more through fun experiments and activities!"}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Let’s Get Started!"},
+            {"para": "Now that you know why physics is cool, let’s jump in and explore how everything works!"}
+        ]
     }
 ]
