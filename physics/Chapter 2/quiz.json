@@ -1,0 +1,124 @@
+[
+    {
+        "type": "img",
+        "con": {
+            "ques": "Which image represents the force of gravity?",
+            "text": null,
+            "img": [
+            "q3.webp",
+            "q1.webp",
+            "q2.webp",
+            "q4.webp"
+            ]
+        }
+    },
+    {
+        "type": "img",
+        "con": {
+            "ques": "Which image demonstrates Newton’s First Law of Motion (Inertia)?",
+            "text": null,
+            "img": [
+            "q5.webp",
+            "q6.webp",
+            "q7.webp",
+            "q8.webp"
+            ]
+        }
+    },
+    {
+        "type": "mcq",
+        "con": {
+            "ques": "What can a force do to an object?",
+            "op": [
+                "Make it move, stop, or change direction",
+                "Change its color",
+                "Make it grow bigger",
+                "Turn it into water"
+            ]
+        }
+    },
+    {
+        "type": "mcq",
+        "con": {
+            "ques": "What would happen if there were no forces acting on objects?",
+            "op": [
+                "Nothing would move",
+                "Everything would move faster",
+                "Objects would change color",
+                "Everything would float"
+            ]
+        }
+    },
+    {
+        "type": "mcq",
+        "con": {
+            "ques": "Which of the following is NOT a type of force?",
+            "op": [
+                "Evaporation",
+                "Gravity",
+                "Friction",
+                "Magnetism"
+            ]
+        }
+    },
+    {
+        "type": "mcq",
+        "con": {
+            "ques": "What does gravity do?",
+            "op": [
+                "Pulls everything down to the Earth",
+                "Pushes things up into the air",
+                "Makes things move faster",
+                "Changes the color of objects"
+            ]
+        }
+    },
+    {
+        "type": "mcq",
+        "con": {
+            "ques": "What happens when two surfaces rub against each other?",
+            "op": [
+                "Friction occurs, which slows things down",
+                "They produce light",
+                "They become stronger",
+                "They disappear"
+            ]
+        }
+    },
+    {
+        "type": "mcq",
+        "con": {
+            "ques": "According to Newton’s First Law of Motion, what happens to an object that is moving?",
+            "op": [
+                "It will keep moving until a force stops it",
+                "It will stop automatically after some time",
+                "It will change its shape",
+                "It will explode"
+            ]
+        }
+    },
+    {
+        "type": "mcq",
+        "con": {
+            "ques": "What is harder to move according to Newton’s Second Law?",
+            "op": [
+                "A heavy object",
+                "A light object",
+                "An object in space",
+                "A small object"
+            ]
+        }
+    },
+    {
+        "type": "mcq",
+        "con": {
+            "ques": "What happens when you push an object?",
+            "op": [
+                "It pushes back with the same force",
+                "It moves away without any reaction",
+                "It disappears",
+                "It gets smaller"
+            ]
+        }
+    }
+]
