@@ -1,0 +1,98 @@
+[
+    {
+        "type": "mcq",
+        "con": {
+            "ques": "What is friction?",
+            "op": [
+                "A force that slows things down when two surfaces rub against each other",
+                "A type of energy",
+                "A force that helps things fly",
+                "A type of gravity"
+            ]
+    }
+    },
+    {
+        "type": "mcq",
+        "con": {
+            "ques": "Which of the following is NOT a type of friction?",
+            "op": [
+                "Electric friction",
+                "Sliding friction",
+                "Rolling friction",
+                "Static friction"
+            ]
+    }
+    },
+    {
+        "type": "mcq",
+        "con": {
+            "ques": "How does friction help us in daily life?",
+            "op": [
+                "It helps us walk without slipping",
+                "It helps us fly in the sky",
+                "It stops objects from falling",
+                "It makes things move faster"
+            ]
+    }
+    },
+    {
+        "type": "mcq",
+        "con": {
+            "ques": "What happens when you rub your hands together?",
+            "op": [
+                "Friction turns the movement into heat, making your hands warm",
+                "Friction makes your hands cold",
+                "Gravity pulls your hands apart",
+                "Friction reduces the temperature"
+            ]
+    }
+    },
+    {
+        "type": "mcq",
+        "con": {
+            "ques": "Which of the following is used to reduce friction?",
+            "op": [
+                "Oil",
+                "Sandpaper",
+                "A rough surface",
+                "Sticky tape"
+            ]
+    }
+    },
+    {
+        "type": "mcq",
+        "con": {
+            "ques": "What is air resistance?",
+            "op": [
+                "A type of friction that slows objects moving through the air",
+                "A type of gravity",
+                "A force that speeds things up in the air",
+                "A form of energy in the atmosphere"
+            ]
+    }
+    },
+    {
+        "type": "mcq",
+        "con": {
+            "ques": "What is streamlining?",
+            "op": [
+                "Shaping things so air moves around them easily, reducing air resistance",
+                "A way to increase air resistance",
+                "A technique to make air move faster",
+                "A force that stops objects from moving"
+            ]
+    }
+    },
+    {
+        "type": "mcq",
+        "con": {
+            "ques": "How do athletes reduce friction and air resistance in sports?",
+            "op": [
+                "By using special gear and body positions",
+                "By using heavier equipment",
+                "By increasing their weight",
+                "By moving slower"
+            ]
+    }
+    }
+]

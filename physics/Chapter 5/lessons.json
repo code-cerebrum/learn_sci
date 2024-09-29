@@ -1,0 +1,65 @@
+[
+    {
+        "type": "learn",
+        "con": [
+            {"title": "What is Friction?"},
+            {"para": "Friction is a force that happens when two surfaces rub against each other. It slows things down or makes them stop."}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Types of Friction"},
+            {"para": "There are different types of friction: sliding (when things slide past each other), rolling (wheels on a road), and static (when an object is still)."}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "How Friction Helps Us"},
+            {"para": "Friction helps us do things like walk without slipping, write with a pencil, and drive safely. Without friction, we’d slip and slide everywhere!"}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Friction and Heat"},
+            {"para": "Rubbing your hands together makes them warm because friction turns movement into heat. The more friction there is, the hotter things get!"}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Reducing Friction"},
+            {"para": "Sometimes we need to reduce friction. Things like oil or wheels help objects move smoothly without slowing down."}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "What is Air Resistance?"},
+            {"para": "Air resistance is a type of friction that happens when something moves through the air. It pushes against the object, slowing it down."}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Examples of Air Resistance"},
+            {"para": "Things like parachutes, falling leaves, and paper planes are all affected by air resistance, which slows them down."}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Streamlining – Beating Air Resistance"},
+            {"para": "Streamlining means shaping things so that air moves around them easily. This reduces air resistance and helps them go faster!"}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Friction and Air Resistance in Sports"},
+            {"para": "Sports like skiing, cycling, and swimming use special gear and body positions to reduce friction and air resistance, helping athletes move faster."}
+        ]
+    }
+]

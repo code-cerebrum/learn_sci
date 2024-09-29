@@ -1,0 +1,72 @@
+[
+    {
+        "type": "learn",
+        "con": [
+            {"title": "What is Energy?"},
+            {"para": "Energy is the ability to do work! It makes things move, light up, and power machines."}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Different Forms of Energy"},
+            {"para": "Energy comes in many forms: heat, light, sound, electrical, and more!"}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Energy Can't Be Created or Destroyed"},
+            {"para": "Energy can’t be made or destroyed, it just changes from one form to another. This is called the Law of Conservation of Energy!"}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Potential Energy – Stored Energy"},
+            {"para": "Potential energy is stored energy. It's energy that’s waiting to be used, like a ball sitting at the top of a hill."}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Kinetic Energy – Energy in Motion"},
+            {"para": "Kinetic energy is energy in motion! Anything that moves has kinetic energy, like a car driving or a ball rolling."}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Heat Energy"},
+            {"para": "Heat energy comes from things like the Sun, fire, and even your body! It makes things warmer."}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Electrical Energy"},
+            {"para": "Electrical energy powers all your favorite devices, like your phone, TV, and lights."}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Light Energy"},
+            {"para": "Light energy lets us see things and comes from sources like the Sun and lamps. Without light, we would live in darkness!"}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Work and Energy"},
+            {"para": "Work happens when a force moves an object. When you push or pull something, you're using energy to do work!"}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Energy in Everyday Life"},
+            {"para": "You use energy all the time—when you play, cook, or even sleep! Can you spot energy being used in your life?"}
+        ]
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "type": "learn",
+        "con": [
+            {"title": "What is Energy?"},
+            {"para": "Energy is the ability to do work! It makes things move, light up, and power machines."}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Gravity Keeps Us on Earth"},
+            {"para": "Gravity pulls everything toward the center of the Earth, so we don’t float away into space!"}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Gravity in Space"},
+            {"para": "Gravity also keeps the Moon in orbit around the Earth and the planets around the Sun. That’s why we have day and night and why the planets don’t fly away!"}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Why Do Things Fall?"},
+            {"para": "When you drop something, gravity pulls it down. The heavier it is, the more it is pulled down!"}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Weight vs. Mass"},
+            {"para": "Mass is how much stuff an object has. Weight is how much gravity pulls on that mass. That’s why you weigh less on the Moon but your mass stays the same!"}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Free Fall and Air Resistance"},
+            {"para": "In free fall, only gravity pulls an object down. But in real life, air pushes against falling objects, slowing them down. This is called air resistance."}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Gravity and Speed"},
+            {"para": "The speed of a falling object increases as it falls because gravity pulls it down faster and faster!"}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Zero Gravity – What’s That?"},
+            {"para": "In space, astronauts experience something called \"zero gravity.\" It’s not that there’s no gravity—it’s just that they’re falling around Earth, so they feel weightless!"}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Gravity Affects Everything"},
+            {"para": "Gravity affects everything, from the oceans (creating tides) to the shape of the Earth! Can you find other places where gravity is at work?"}
+        ]
+    }
+]

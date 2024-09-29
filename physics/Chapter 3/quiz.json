@@ -1,0 +1,111 @@
+[
+    {
+        "type": "img",
+        "con": {
+            "ques": "Which of these images represents a source of heat energy?",
+            "text": ["Fire", "Bicycle", "Ball Rolling", "Telephone"],
+            "img": [
+                "2.webp",
+                "1.webp",
+                "3.webp",
+                "4.webp"
+                ]
+            }
+    },
+    {
+        "type": "mcq",
+        "con": {
+            "ques": "What is energy?",
+            "op": [
+                "The ability to do work",
+                "The ability to create objects",
+                "The ability to think",
+                "The ability to talk"
+            ]
+    }
+    },
+    {
+        "type": "mcq",
+        "con": {
+            "ques": "Which of the following is a form of energy?",
+            "op": [
+                "Heat",
+                "Air",
+                "Paper",
+                "Water"
+            ]
+    }
+    },
+    {
+        "type": "mcq",
+        "con": {
+            "ques": "According to the Law of Conservation of Energy, what can happen to energy?",
+            "op": [
+                "It changes from one form to another",
+                "It can be created",
+                "It can be destroyed",
+                "It disappears"
+            ]
+    }
+    },
+    {
+        "type": "mcq",
+        "con": {
+            "ques": "What is potential energy?",
+            "op": [
+                "Energy stored and waiting to be used",
+                "Energy in motion",
+                "Energy that is lost",
+                "Energy that can’t be measured"
+            ]
+    }
+    },
+    {
+        "type": "mcq",
+        "con": {
+            "ques": "What kind of energy does a moving car have?",
+            "op": [
+                "Kinetic energy",
+                "Potential energy",
+                "Stored energy",
+                "Heat energy"
+            ]
+    }
+    },
+    {
+        "type": "mcq",
+        "con": {
+            "ques": "Which of the following is a source of heat energy?",
+            "op": [
+                "Sun",
+                "Bicycle",
+                "Book",
+                "Glass of water"
+            ]
+    }
+    },
+    {
+        "type": "mcq",
+        "con": {
+            "ques": "What does electrical energy power?",
+            "op": [
+                "Your phone",
+                "A ball",
+                "A book",
+                "A plant"
+            ]
+    }
+    },
+    {
+        "type": "mcq",
+        "con": {
+            "ques": "What is a source of light energy?",
+            "op": [
+                "A Lamp",
+                "The Moon",
+                "A rock",
+                "A car"
+            ]
+    }
+    }
+]

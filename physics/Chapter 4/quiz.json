@@ -1,0 +1,48 @@
+[
+    {
+        "type": "mcq",
+        "con": {
+            "ques": "What does gravity do?",
+            "op": [
+                "Pulls everything toward the center of Earth",
+                "Pushes things away from Earth",
+                "Makes things float in space",
+                "Stops objects from moving"
+            ]
+    }
+    },
+    {
+        "type": "mcq",
+        "con": {
+            "ques": "Why do objects fall when you drop them?",
+            "op": [
+                "Gravity pulls them down",
+                "Air pushes them down",
+                "The Earth repels them",
+                "They are too heavy"
+            ]
+    }
+    },{
+        "type": "mcq",
+        "con": {
+            "ques": "What happens in free fall?",
+            "op": [
+                "Only gravity pulls the object down",
+                "Air resistance pushes objects faster",
+                "Gravity doesn’t affect objects",
+                "The object moves up due to wind"
+            ]
+    }
+    },{
+        "type": "mcq",
+        "con": {
+            "ques": "What happens to the speed of a falling object?",
+            "op": [
+                "It increases as gravity pulls it down faster and faster",
+                "It stays the same",
+                "It decreases over time",
+                "It is not affected by gravity"
+            ]
+    }
+    }
+]
