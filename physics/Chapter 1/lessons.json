@@ -3,8 +3,11 @@
         "type": "learn",
         "con": [
             {"title": "What is Physics?"},
+            {"img": "1.webp"},
             {"para": "Physics is the study of the universe and everything in it. It helps us understand how objects move, interact, and behave in both the smallest scales—like atoms and molecules—and the largest scales, such as stars and galaxies."},
+            {"img": "4.webp"},
             {"para": "Physics is the science that explains why a ball falls to the ground when you drop it, why the Earth orbits the Sun, and why the light from a flashlight spreads out in the dark."},
+            {"img": "2.webp"},
             {"para": "At its core, physics is all about understanding the laws and forces that govern the natural world. These laws apply everywhere, whether we're studying the atoms that make up our bodies or the stars millions of light-years away."},
             {"para": "Physics helps explain the concepts of motion, energy, time, and space. It also plays a crucial role in technology, helping to develop everything from smartphones to space travel."}
         ]
@@ -13,7 +16,9 @@
         "type": "learn",
         "con": [
             {"title": "Why Physics Matters in Everyday Life"},
+            {"img": "3.webp"},
             {"para": "Physics is not just something we study in classrooms—it’s a part of everything we do, every single day. For example, when you walk, run, or ride a bicycle, you’re using forces like gravity and friction. These forces make sure you stay grounded and help your wheels grip the road. The same principles are at work when you play sports, drive a car, or even sit in a chair."},
+            {"img": "5.webp"},
             {"para": "Physics also plays a big role in technology. The smartphone in your hand is powered by electricity, and the touch screen works because of principles like electrical charge and energy. When you cook food on the stove, heat energy is transferred from the flame to your pan, and when you watch television, light waves and sound waves bring pictures and audio to your screen. Without physics, none of this would be possible. From the buildings we live in to the transportation systems that connect us, physics shapes the way our world works."}
         ]
     },
@@ -21,6 +26,7 @@
         "type": "learn",
         "con": [
             {"title": "The Scientific Method and Physics"},
+            {"img": "6.webp"},
             {"para": "In physics, as in all branches of science, discoveries are made by following a specific process called the scientific method. The scientific method is a step-by-step process for investigating questions and finding answers. It begins by asking a question about something you observe, such as, 'Why do objects fall when I drop them?' Once you have a question, the next step is to make a hypothesis, which is your best guess about the answer."},
             {"para": "After forming a hypothesis, scientists perform experiments to test it. In the case of gravity, you might drop different objects and measure how fast they fall. By carefully observing and recording the results, scientists can gather data. Based on the data, they can conclude whether the hypothesis was correct or if they need to revise it and test again. This process allows scientists to build a deeper understanding of how things work, and it's one of the main tools used in physics to explore the natural world."}
         ]
@@ -29,7 +35,9 @@
         "type": "learn",
         "con": [
             {"title": "Motion and Forces"},
+            {"img": "7.webp"},
             {"para": "Physics is all about motion, which describes how objects move, and forces, which explain why objects move. A force is any push or pull that can change the motion of an object. For example, when you kick a soccer ball, you apply a force that makes the ball move. Forces can also stop or slow down motion, like when friction causes a bike to slow down on the road."},
+            {"img": "8.webp"},
             {"para": "One of the most important forces in our lives is gravity. It pulls everything toward the Earth, which is why objects fall when you drop them. But gravity isn’t the only force at work. Friction, for example, is a force that resists motion and is why your feet don’t slide when you walk. Understanding forces like gravity and friction helps explain how everything moves in the world, from cars on highways to the planets in space."}
         ]
     },
@@ -37,7 +45,10 @@
         "type": "learn",
         "con": [
             {"title": "Energy in Action"},
-            {"para": "Energy is what makes things happen. Everything we do requires energy, whether it’s running, driving, or even thinking. There are two main types of energy: kinetic energy and potential energy. Kinetic energy is the energy of motion. For example, when a car is moving, it has kinetic energy. On the other hand, potential energy is stored energy—like a ball sitting at the top of a hill, ready to roll. As soon as you let it go, that potential energy turns into kinetic energy as the ball moves."},
+            {"img": "9.webp"},
+            {"para": "Energy is what makes things happen. Everything we do requires energy, whether it’s running, driving, or even thinking. There are two main types of energy: kinetic energy and potential energy."},
+            {"img": "10.webp"},
+            {"para": "Kinetic energy is the energy of motion. For example, when a car is moving, it has kinetic energy. On the other hand, potential energy is stored energy—like a ball sitting at the top of a hill, ready to roll. As soon as you let it go, that potential energy turns into kinetic energy as the ball moves."},
             {"para": "Energy can also change from one form to another. For example, when you eat food, your body converts the chemical energy in the food into the energy your muscles need to move. Similarly, when you use a battery, it stores chemical energy that can be converted into electrical energy to power devices like smartphones. The key idea in physics is that energy can never be created or destroyed—it only changes forms. This is called the law of conservation of energy."}
         ]
     },
@@ -45,8 +56,11 @@
         "type": "learn",
         "con": [
             {"title": "Light and Sound"},
+            {"img": "11.webp"},
             {"para": "Light and sound are two forms of energy that travel in waves, but they behave in different ways. Light travels in straight lines and can bounce off surfaces (reflection) or bend when it passes through something like water (refraction). This explains why you can see your reflection in a mirror or why a straw looks bent when placed in a glass of water. Light moves incredibly fast, and it’s what allows us to see everything around us."},
-            {"para": "Sound, on the other hand, is created by vibrations. When something vibrates—like the strings of a guitar or the diaphragm of a speaker—it sends sound waves through the air. These waves travel to your ears, allowing you to hear. Unlike light, sound needs something to travel through, like air or water. This is why you can hear a friend talking to you in a room, but in space, where there’s no air, you wouldn’t be able to hear anything."}
+            {"img": "12.webp"},
+            {"para": "Sound, on the other hand, is created by vibrations. When something vibrates—like the strings of a guitar or the diaphragm of a speaker—it sends sound waves through the air. These waves travel to your ears, allowing you to hear. Unlike light, sound needs something to travel through, like air or water. This is why you can hear a friend talking to you in a room, but in space, where there’s no air, you wouldn’t be able to hear anything."},
+            {"img": "13.webp"}
         ]
     },
     {
