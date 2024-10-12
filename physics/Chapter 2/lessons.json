@@ -2,64 +2,132 @@
     {
         "type": "learn",
         "con": [
-            {"title": "What is a Force?"},
-            {"para": "A force is a push or pull on an object. It can make things move, stop, or change direction!"}
+            {"title": "Forces"},
+            {"para": "Forces are pushes or pulls that can change the motion of an object. They are responsible for everything from how we walk to how planets orbit around the Sun."},
+            {"para": "Forces can be divided into two main categories: *contact forces* and *non-contact forces.*"}
         ]
     },
     {
         "type": "learn",
         "con": [
-            {"title": "How Do Forces Affect Motion?"},
-            {"para": "Forces can make things move faster, slower, or change their direction. Without forces, nothing would move!"}
+            {"title": "Contact forces"},
+            {"para": "Contact forces occur when objects physically touch each other. A *push* or *pull* is a basic example of a contact force—think of pushing a door open or pulling a rope."},
+            {"para": "*Friction* is another contact force, which happens when two surfaces rub against each other, like when your shoes grip the ground to prevent slipping."},
+            {"para": "Tension, on the other hand, occurs in objects like ropes or strings when they are pulled tight, such as when you tug on a rope during a game of tug-of-war."}
         ]
     },
     {
         "type": "learn",
         "con": [
-            {"title": "Types of Forces"},
-            {"para": "There are different types of forces like gravity, friction, and magnetism. Each one acts differently on objects."}
+            {"title": "Non-contact forces"},
+            {"para": "Non-contact forces work even when objects are not touching. *Gravity* is a perfect example—it pulls objects toward the Earth, like when you drop something and it falls to the ground."},
+            {"para": "*Magnetic* forces are also non-contact forces. They can pull or push objects without physically touching them, like when a magnet attracts metal."},
+            {"para": "Finally, *electric forces* can attract or repel objects that carry an electric charge, even from a distance. These invisible forces have a significant impact on our everyday lives, even though we can’t always see them."}
         ]
     },
     {
         "type": "learn",
         "con": [
-            {"title": "Gravity – The Invisible Force"},
-            {"para": "Gravity pulls everything down to the Earth. It’s the reason why we stay on the ground and why things fall when you drop them!"}
+            {"title": ""},
+            {"para": ""},
+            {"para": ""}
         ]
     },
     {
         "type": "learn",
         "con": [
-            {"title": "Friction – The Force That Slows Things Down"},
-            {"para": "Friction happens when two surfaces rub against each other. It stops things from sliding forever."}
+            {"title": ""},
+            {"para": ""},
+            {"para": ""}
         ]
     },
     {
         "type": "learn",
         "con": [
-            {"title": "Newton’s First Law of Motion (Inertia)"},
-            {"para": "Things want to keep doing what they’re already doing. This is called inertia. If something is still, it stays still until a force moves it. If it’s moving, it keeps moving until a force stops it!"}
+            {"title": ""},
+            {"para": ""},
+            {"para": ""}
         ]
     },
     {
         "type": "learn",
         "con": [
-            {"title": "Newton’s Second Law of Motion"},
-            {"para": "The more force you use, the faster an object will move! But the heavier it is, the harder it is to move."}
+            {"title": ""},
+            {"para": ""},
+            {"para": ""}
         ]
     },
     {
         "type": "learn",
         "con": [
-            {"title": "Newton’s Third Law of Motion"},
-            {"para": "For every action, there is an equal and opposite reaction! If you push something, it pushes back with the same force."}
+            {"title": ""},
+            {"para": ""},
+            {"para": ""}
         ]
     },
     {
         "type": "learn",
         "con": [
-            {"title": "Examples of Forces in Everyday Life"},
-            {"para": "From riding a bike to playing on a swing, forces are all around us! Can you think of other examples where forces are at work?"}
+            {"title": ""},
+            {"para": ""},
+            {"para": ""}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": ""},
+            {"para": ""},
+            {"para": ""}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": ""},
+            {"para": ""},
+            {"para": ""}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": ""},
+            {"para": ""},
+            {"para": ""}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": ""},
+            {"para": ""},
+            {"para": ""}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": ""},
+            {"para": ""},
+            {"para": ""}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": ""},
+            {"para": ""},
+            {"para": ""}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": ""},
+            {"para": ""},
+            {"para": ""}
         ]
     }
+    
 ]
