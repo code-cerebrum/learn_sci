@@ -4,7 +4,7 @@
         "con": [
             {"title": "What is Physics?"},
             {"img": "1.webp"},
-            {"para": "Physics is the study of the universe and everything in it. It helps us understand how objects move, interact, and behave in both the smallest scales—like atoms and molecules—and the largest scales, such as stars and galaxies."},
+            {"para": "*Physics* is the study of the ```universe``` and everything in it. It helps us understand how objects move, interact, and behave in both the smallest scales—like atoms and molecules—and the largest scales, such as stars and galaxies."},
             {"img": "4.webp"},
             {"para": "Physics is the science that explains why a ball falls to the ground when you drop it, why the Earth orbits the Sun, and why the light from a flashlight spreads out in the dark."},
             {"img": "2.webp"},
