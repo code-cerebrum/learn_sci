@@ -4,7 +4,7 @@
         "con": [
             {"title": "What is Physics?"},
             {"img": "1.webp"},
-            {"para": "*Physics* is the study of the ```universe``` and everything in it. It helps us understand how objects move, interact, and behave in both the smallest scales—like atoms and molecules—and the largest scales, such as stars and galaxies."},
+            {"para": "Physics is the study of the universe and everything in it. It helps us understand how objects move, interact, and behave in both the smallest scales—like atoms and molecules—and the largest scales, such as stars and galaxies."},
             {"img": "4.webp"},
             {"para": "Physics is the science that explains why a ball falls to the ground when you drop it, why the Earth orbits the Sun, and why the light from a flashlight spreads out in the dark."},
             {"img": "2.webp"},
@@ -46,9 +46,9 @@
         "con": [
             {"title": "Energy in Action"},
             {"img": "9.webp"},
-            {"para": "Energy is what makes things happen. Everything we do requires energy, whether it’s running, driving, or even thinking. There are two main types of energy: kinetic energy and potential energy."},
+            {"para": "Energy is what makes things happen. Everything we do requires energy, whether it’s running, driving, or even thinking. There are two main types of energy: *kinetic energy* and *potential energy.*"},
             {"img": "10.webp"},
-            {"para": "Kinetic energy is the energy of motion. For example, when a car is moving, it has kinetic energy. On the other hand, potential energy is stored energy—like a ball sitting at the top of a hill, ready to roll. As soon as you let it go, that potential energy turns into kinetic energy as the ball moves."},
+            {"para": "*Kinetic energy* is the energy of motion. For example, when a car is moving, it has kinetic energy. On the other hand, *potential energy* is stored energy—like a ball sitting at the top of a hill, ready to roll. As soon as you let it go, that potential energy turns into kinetic energy as the ball moves."},
             {"para": "Energy can also change from one form to another. For example, when you eat food, your body converts the chemical energy in the food into the energy your muscles need to move. Similarly, when you use a battery, it stores chemical energy that can be converted into electrical energy to power devices like smartphones. The key idea in physics is that energy can never be created or destroyed—it only changes forms. This is called the law of conservation of energy."}
         ]
     },
@@ -67,7 +67,9 @@
         "type": "learn",
         "con": [
             {"title": "Electricity and Magnetism"},
+            {"img": "14.webp"},
             {"para": "Electricity and magnetism are two forces that work closely together. Electricity is the flow of electric charge, and it powers many of the devices we use every day, from phones and computers to lights and refrigerators. It moves through wires in the form of an electric current, delivering energy from a power source, like a battery or a power plant, to the things we use. Without electricity, modern life as we know it would be impossible."},
+            {"img": "15.webp"},
             {"para": "Magnetism, on the other hand, is the force that causes magnets to attract or repel certain materials, like metal. Magnets are used in many devices, from compasses to electric motors. Interestingly, electricity and magnetism are closely related. When electricity flows through a wire, it creates a magnetic field. This relationship between electricity and magnetism is the basis for many important technologies, including electric generators and motors, which convert energy from one form to another."}
         ]
     },

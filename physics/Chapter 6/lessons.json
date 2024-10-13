@@ -1,0 +1,65 @@
+[
+    {
+        "type": "learn",
+        "con": [
+            {"title": "What Are Waves?"},
+            {"para": "Waves are a way energy moves from one place to another. They carry energy without transporting matter. Waves can travel through various mediums like air, water, and solids, but not all waves need a medium to travel through. There are two main types of waves:"},
+            {"para": "*Mechanical waves* require a medium (like air, water, or solids) to travel. Examples include sound waves and ocean waves. For example, when you throw a pebble into a pond, the ripples that form are mechanical waves that travel through the water."},
+            {"para": "*Electromagnetic waves* do not require a medium and can travel through a vacuum, like outer space. Light, radio waves, and X-rays are all examples of electromagnetic waves. These waves allow us to see light from the sun, hear radios, and even communicate with satellites."},
+            {"para": "Waves are described by their properties, including wavelength, frequency, and amplitude. The wavelength is the distance between two consecutive peaks of a wave. Frequency refers to how many waves pass a point in one second. Finally, amplitude measures the height of the wave and determines how much energy it carries."}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Light - Reflection"},
+            {"para": "Light behaves in fascinating ways when it interacts with different surfaces. One way it interacts is through *reflection*, where light bounces off an object. This is how mirrors work—you see your reflection because the light from your face bounces back to your eyes."}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Light - Refraction"},
+            {"para": "*Refraction* is the bending of light as it passes from one medium to another, like from air to water. For example, when you place a straw in a glass of water, it looks bent or broken because the light is bending as it moves through the water."}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Light - Absorption"},
+            {"para": "*Absorption* occurs when light hits an object and is absorbed instead of being reflected or refracted. Dark-colored objects absorb more light, which is why they feel warmer in sunlight. On the other hand, light-colored objects reflect most of the light."}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Light - Colors and the Electromagnetic Spectrum"},
+            {"para": "Light is part of the *electromagnetic spectrum*, which includes all types of electromagnetic waves. "},
+            {"para": "The *visible spectrum* is the part of the spectrum that humans can see. It consists of the colors of the rainbow—red, orange, yellow, green, blue, indigo, and violet."},
+            {"para": "Each color of light corresponds to a different wavelength. *Red light* has the longest wavelength, while *violet light* has the shortest."},
+            {"para": "The electromagnetic spectrum also includes waves we can’t see, like radio waves (used for communication), microwaves (used in cooking), infrared (used in heat detection), ultraviolet (which can cause sunburn), X-rays (used in medical imaging), and gamma rays (used in radiation therapy). "},
+            {"para": "Each type of wave has its own wavelength and energy level."}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Sound - Sound Waves and Vibrations"},
+            {"para": "Sound is a type of *mechanical wave* that travels through a medium like air, water, or solids. Sound waves are created when an object vibrates, causing the particles around it to vibrate as well."},
+            {"para": "These vibrations travel through the medium and eventually reach our ears, where they are interpreted as sound."},
+            {"para": "For example, when you pluck a guitar string, the string vibrates, creating sound waves that travel through the air to your ears. In a vacuum, where there is no air or other medium, sound cannot travel, which is why space is silent."},
+            {"para": "Sound waves move in a pattern of compressions (where particles are close together) and rarefactions (where particles are spread out). These vibrations make sound possible."}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Sound - Pitch and Volume"},
+            {"para": "Two important characteristics of sound are *pitch* and *volume*."},
+            {"para": "*Pitch* is how high or low a sound is, and it depends on the frequency of the sound waves. Higher frequency sound waves produce higher-pitched sounds, while lower frequency sound waves create lower-pitched sounds."},
+            {"para": "For example, a violin produces high-pitched sounds, while a bass guitar produces lower-pitched sounds."},
+            {"para": "*Volume* refers to how loud or soft a sound is. Volume is determined by the amplitude of the sound wave. A larger amplitude results in a louder sound, while a smaller amplitude creates a softer sound. "},
+            {"para": "Imagine a speaker playing music: turning the volume up increases the amplitude of the sound waves, making the music louder."}
+        ]
+    }
+]

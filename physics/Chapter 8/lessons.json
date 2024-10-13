@@ -1,0 +1,87 @@
+[
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Introduction to Work"},
+            {"para": "Work in physics happens when you use force to move something! For example, pushing a box across the floor is work, but just standing still isn’t."}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Energy Transfer"},
+            {"para": "When you do work, you’re transferring energy. Pushing, pulling, lifting—these actions use energy and transfer it to the object you're moving."}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Power: Work Done Over Time"},
+            {"para": "Power is how quickly work is done. If two people move the same box, the one who moves it faster uses more power."},
+            {"para": "Power = Work ÷ Time."}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Introduction to Simple Machines"},
+            {"para": "Simple machines make work easier! They help you use less force to move heavy objects. There are six types of simple machines. Let's explore them!"}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Lever"},
+            {"para": "A lever is a simple machine that uses a bar and a fulcrum (pivot point). You can lift heavy things by pushing down on one side of the lever."}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Pulley"},
+            {"para": "A pulley is a wheel with a rope. Pulling the rope down lifts objects up! Pulleys help lift heavy objects, like a flag or bucket of water."}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Inclined Plane"},
+            {"para": "An inclined plane is like a ramp. It helps move objects up without lifting them straight up. Pushing a box up a ramp is easier than lifting it!"}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Screw"},
+            {"para": "A screw is an inclined plane wrapped around a cylinder. Screws help hold things together or move objects up slowly, like in a screw jack."}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Wedge"},
+            {"para": "A wedge is like two inclined planes back to back. It’s used to split things apart, like an axe splitting wood or a doorstop holding a door open."}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Wheel and Axle"},
+            {"para": "A wheel and axle is a simple machine that makes it easier to move things. The wheel turns, and the axle helps reduce the force needed to move objects."}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Mechanical Advantage of Simple Machines"},
+            {"para": "Simple machines give us a \"mechanical advantage,\" meaning they help us use less effort to do the same amount of work. The right tool makes a big difference!"}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Everyday Examples of Simple Machines"},
+            {"para": "Simple machines are all around us! From scissors (a lever) to bikes (wheel and axle), they make everyday tasks easier. Can you find them in your home?"}
+        ]
+    }
+]

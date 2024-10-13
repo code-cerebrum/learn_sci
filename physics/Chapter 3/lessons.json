@@ -2,71 +2,83 @@
     {
         "type": "learn",
         "con": [
-            {"title": "What is Energy?"},
-            {"para": "Energy is the ability to do work! It makes things move, light up, and power machines."}
+            {"title": "Speed, Velocity, and Acceleration"},
+            {"para": "When objects move, we use terms like speed, velocity, and acceleration to describe their motion. While these words may seem similar, they have important differences in physics."},
+            {"para": "*Speed* is how fast something is moving, but it doesn’t tell us in which direction. For example, if you ride your bike at 10 kilometers per hour, your speed is 10 km/h. "},
+            {"para": "*Velocity*, on the other hand, includes both speed and direction. If you ride your bike at 10 km/h to the east, your velocity is 10 km/h east. The key difference is that velocity always includes a direction, while speed does not."},
+            {"para": "*Acceleration* is how quickly the velocity of an object changes. When you press the gas pedal in a car, you increase its speed, which means the car is accelerating. Acceleration can also mean slowing down, which we call deceleration."},
+            {"para": "Acceleration is measured in meters per second squared (m/s²), and it tells us how much the velocity changes each second."}
         ]
     },
     {
         "type": "learn",
         "con": [
-            {"title": "Different Forms of Energy"},
-            {"para": "Energy comes in many forms: heat, light, sound, electrical, and more!"}
+            {"title": "Differences Between Speed and Velocity"},
+            {"para": "While *speed* and *velocity* are related concepts, they are not the same."},
+            {"para": "*Speed* tells us how fast something is moving, but it doesn’t consider direction."},
+            {"para": "*Velocity*, however, includes both how fast something is moving and in which direction. This means that two objects could have the same speed but different velocities if they are moving in different directions."},
+            {"para": "For example, imagine two cars driving at 60 km/h. One car is going north, and the other is going east. Even though both cars have the same speed, their velocities are different because they are moving in different directions. In physics, velocity is a vector quantity, meaning it has both magnitude (speed) and direction, while speed is a scalar quantity, meaning it only has magnitude."}
         ]
     },
     {
         "type": "learn",
         "con": [
-            {"title": "Energy Can't Be Created or Destroyed"},
-            {"para": "Energy can’t be made or destroyed, it just changes from one form to another. This is called the Law of Conservation of Energy!"}
+            {"title": "Measuring Acceleration"},
+            {"para": "Acceleration is the rate at which an object’s velocity changes. It can happen when something speeds up, slows down, or changes direction. To measure acceleration, we need to know how much the velocity changes and how much time it takes for that change to happen."},
+            {"para": "The formula for acceleration is:"},
+            {"img": "1.webp"},
+            {"para": "This tells us how much the velocity changes each second. If a car speeds up from 0 to 20 m/s in 5 seconds, its acceleration is:"},
+            {"img": "2.webp"},
+            {"para": "Acceleration can also be negative when something slows down, which is called deceleration. Measuring acceleration helps us understand how quickly things change their motion."}
         ]
     },
     {
         "type": "learn",
         "con": [
-            {"title": "Potential Energy – Stored Energy"},
-            {"para": "Potential energy is stored energy. It's energy that’s waiting to be used, like a ball sitting at the top of a hill."}
+            {"title": "Newton’s First Law of Motion (Inertia)"},
+            {"para": "The first of *Newton’s Laws of Motion* is often called the law of inertia. It states that an object at rest will stay at rest, and an object in motion will stay in motion at the same speed and in the same direction, unless acted upon by an unbalanced force. This means that objects naturally resist changes to their motion."},
+            {"para": "For example, when you’re riding in a car and the driver suddenly stops, your body continues moving forward. This happens because your body wants to keep moving at the same speed as the car was moving. Seat belts help protect us from this effect by holding us in place. The law of inertia explains why it's hard to start moving a heavy object and why it takes force to stop something that’s already moving."}
         ]
     },
     {
         "type": "learn",
         "con": [
-            {"title": "Kinetic Energy – Energy in Motion"},
-            {"para": "Kinetic energy is energy in motion! Anything that moves has kinetic energy, like a car driving or a ball rolling."}
+            {"title": "Newton’s Second Law of Motion (Force and Acceleration)"},
+            {"para": "*Newton’s Second Law of Motion* explains how force, mass, and acceleration are related. It tells us that the force needed to accelerate an object depends on both the mass of the object and the amount of acceleration. The formula for this law is:"},
+            {"img": "3.webp"},
+            {"para": "This means that heavier objects need more force to accelerate than lighter ones. "},
+            {"para": "For example, it takes much more force to push a car than to push a bicycle because the car has more mass."},
+            {"para": "This law also tells us that the harder you push an object, the faster it will accelerate. If you apply the same force to two objects of different masses, the object with less mass will accelerate more. This is why it’s easier to throw a small ball than a heavy one—the small ball has less mass, so it accelerates more easily."}
         ]
     },
     {
         "type": "learn",
         "con": [
-            {"title": "Heat Energy"},
-            {"para": "Heat energy comes from things like the Sun, fire, and even your body! It makes things warmer."}
+            {"title": "Newton’s Third Law of Motion (Action and Reaction)"},
+            {"para": "Newton’s Third Law of Motion is one of the most famous: *for every action, there is an equal and opposite reaction.* This means that whenever one object applies a force on a second object, the second object applies an equal force back on the first object in the opposite direction."},
+            {"para": "A good example is when you jump off the ground. Your legs push down on the ground (action), and the ground pushes you upward with an equal force (reaction), allowing you to jump. This law also explains why rockets can launch into space. The engines push exhaust gases downwards (action), and the gases push the rocket upwards with an equal and opposite force (reaction). Every movement we make involves pairs of action and reaction forces."}
         ]
     },
     {
         "type": "learn",
         "con": [
-            {"title": "Electrical Energy"},
-            {"para": "Electrical energy powers all your favorite devices, like your phone, TV, and lights."}
+            {"title": "Uniform vs. Non-uniform Motion"},
+            {"para": "Motion can be classified as either *uniform* or *non-uniform*. "},
+            {"para": "*Uniform motion* occurs when an object moves at a constant speed in a straight line. This means that the object covers equal distances in equal intervals of time."},
+            {"para": "For example, a car driving on a highway at a constant speed of 60 km/h is in uniform motion."},
+            {"para": "*Non-uniform motion*, on the other hand, happens when an object’s speed or direction changes"},
+            {"para": "Most objects in the real world experience non-uniform motion, like a car slowing down to stop at a traffic light or a runner speeding up during a race. In non-uniform motion, the object covers different distances in equal intervals of time."},
+            {"para": "Understanding the difference between these two types of motion helps us describe how things move in the world around us."}
         ]
     },
     {
         "type": "learn",
         "con": [
-            {"title": "Light Energy"},
-            {"para": "Light energy lets us see things and comes from sources like the Sun and lamps. Without light, we would live in darkness!"}
-        ]
-    },
-    {
-        "type": "learn",
-        "con": [
-            {"title": "Work and Energy"},
-            {"para": "Work happens when a force moves an object. When you push or pull something, you're using energy to do work!"}
-        ]
-    },
-    {
-        "type": "learn",
-        "con": [
-            {"title": "Energy in Everyday Life"},
-            {"para": "You use energy all the time—when you play, cook, or even sleep! Can you spot energy being used in your life?"}
+            {"title": "Circular Motion and Centripetal Force"},
+            {"para": "When an object moves in a circular path, we call this *circular motion*. An example of circular motion is a planet orbiting the Sun or a ball tied to a string being swung around in a circle. "},
+            {"para": "In circular motion, the direction of the object’s velocity is constantly changing, even if its speed stays the same."},
+            {"para": "*Centripetal force* is the force that keeps an object moving in a circular path. Without this force, the object would fly off in a straight line due to inertia."},
+            {"para": "For example, when you swing a ball on a string, the *tension* in the string provides the centripetal force that keeps the ball moving in a circle. In the case of planets, gravity provides the centripetal force that keeps them in orbit around the Sun."}
         ]
     }
 ]

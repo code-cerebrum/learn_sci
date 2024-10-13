@@ -13,7 +13,7 @@
             {"title": "Contact forces"},
             {"para": "Contact forces occur when objects physically touch each other. A *push* or *pull* is a basic example of a contact force—think of pushing a door open or pulling a rope."},
             {"para": "*Friction* is another contact force, which happens when two surfaces rub against each other, like when your shoes grip the ground to prevent slipping."},
-            {"para": "Tension, on the other hand, occurs in objects like ropes or strings when they are pulled tight, such as when you tug on a rope during a game of tug-of-war."}
+            {"para": "*Tension*, on the other hand, occurs in objects like ropes or strings when they are pulled tight, such as when you tug on a rope during a game of tug-of-war."}
         ]
     },
     {
@@ -28,106 +28,71 @@
     {
         "type": "learn",
         "con": [
-            {"title": ""},
-            {"para": ""},
-            {"para": ""}
+            {"title": "Energy"},
+            {"para": "Energy is what makes things happen, and everything in the universe involves some form of energy. There are many types of energy, but the most common forms we encounter are *kinetic energy, potential energy,* and *mechanical energy.*"}
         ]
     },
     {
         "type": "learn",
         "con": [
-            {"title": ""},
-            {"para": ""},
-            {"para": ""}
+            {"title": "Kinetic energy"},
+            {"para": "*Kinetic energy* is the energy of motion. Anything that moves, from a racing car to a flowing river, has kinetic energy. The faster something moves, the more kinetic energy it has."}
         ]
     },
     {
         "type": "learn",
         "con": [
-            {"title": ""},
-            {"para": ""},
-            {"para": ""}
+            {"title": "Potential energy"},
+            {"para": "*Potential energy*, on the other hand, is stored energy. It is the energy that an object has because of its position. For example, a rock sitting at the top of a hill has potential energy because it could roll down the hill at any moment. Once it starts moving, that potential energy turns into *kinetic energy.*"}
         ]
     },
     {
         "type": "learn",
         "con": [
-            {"title": ""},
-            {"para": ""},
-            {"para": ""}
+            {"title": "Mechanical energy"},
+            {"para": "*Mechanical energy* is the combination of both kinetic and potential energy. It is the total energy an object has due to its motion and position."},
+            {"para": "For example, a moving roller coaster at the top of a track has both kinetic energy (because it's moving) and potential energy (because of its height)."},
+            {"para": "The key to understanding energy is that it can change from one form to another, but it is never lost. This is called the *conservation of energy.*"}
         ]
     },
     {
         "type": "learn",
         "con": [
-            {"title": ""},
-            {"para": ""},
-            {"para": ""}
+            {"title": "Energy Conservation"},
+            {"para": "One of the most important principles in physics is the *conservation of energy*. This principle states that energy cannot be created or destroyed; it can only be transferred from one form to another. This means that the total amount of energy in a closed system always remains the same, even though the form of the energy might change."},
+            {"para": "For example, when you ride a bicycle down a hill, the potential energy you have at the top of the hill is converted into kinetic energy as you move. No energy is lost—it's just transformed. Similarly, when you turn on a light bulb, electrical energy is transformed into light and heat energy. In both examples, the total amount of energy remains the same, even though it’s changing forms."},
+            {"para": "This idea of energy conservation is crucial for understanding how the world works and how energy is used in everything from machinery to living organisms."}
         ]
     },
     {
         "type": "learn",
         "con": [
-            {"title": ""},
-            {"para": ""},
-            {"para": ""}
+            {"title": "Work and Power"},
+            {"para": "In physics, *work* has a specific meaning. Work is done when a force is applied to an object, and the object moves in the direction of the force."},
+            {"para": "For example, if you push a box across the floor, you’re doing work because you’re applying a force and causing the box to move."},
+            {"para": "The amount of work done depends on both the force you apply and the distance the object moves. If the object doesn’t move, no work is done, even if you’re pushing as hard as you can."}
         ]
     },
     {
         "type": "learn",
         "con": [
-            {"title": ""},
-            {"para": ""},
-            {"para": ""}
+            {"title": "Power"},
+            {"para": "*Power* is related to work, but it tells us how quickly work is done. Power is the rate at which work is performed."},
+            {"para": "For example, if two people push a car the same distance, but one person does it faster, they have used more power."},
+            {"para": "Power can be calculated by dividing the amount of work done by the time it takes to do it. This concept helps us understand how machines, engines, and even our bodies work more efficiently when they use less time and energy to perform tasks."}
         ]
     },
     {
         "type": "learn",
         "con": [
-            {"title": ""},
-            {"para": ""},
-            {"para": ""}
-        ]
-    },
-    {
-        "type": "learn",
-        "con": [
-            {"title": ""},
-            {"para": ""},
-            {"para": ""}
-        ]
-    },
-    {
-        "type": "learn",
-        "con": [
-            {"title": ""},
-            {"para": ""},
-            {"para": ""}
-        ]
-    },
-    {
-        "type": "learn",
-        "con": [
-            {"title": ""},
-            {"para": ""},
-            {"para": ""}
-        ]
-    },
-    {
-        "type": "learn",
-        "con": [
-            {"title": ""},
-            {"para": ""},
-            {"para": ""}
-        ]
-    },
-    {
-        "type": "learn",
-        "con": [
-            {"title": ""},
-            {"para": ""},
-            {"para": ""}
+            {"title": "Calculating Power and Efficiency"},
+            {"para": "When we talk about power in physics, we often want to know how much power is needed to perform a task efficiently. *Power* can be calculated using a simple formula:"},
+            {"para": "Power = Work/Time"},
+            {"para": "This formula tells us how much work is done over a certain period. For example, lifting a weight quickly requires more power than lifting it slowly, even if the total amount of work done is the same."},
+            {"para": "*Efficiency* is another important concept related to power. Efficiency measures how much of the energy put into a machine or system is actually used to do useful work."},
+            {"para": "For example, when you ride a bike, not all the energy from pedaling is used to move forward—some is lost as heat due to friction."},
+            {"para": "Machines or processes that are more efficient waste less energy and can do the same amount of work using less power."},
+            {"para": "Efficiency can be calculated as a percentage by comparing the amount of useful energy to the total energy input."}
         ]
     }
-    
 ]

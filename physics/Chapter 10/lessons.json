@@ -1,0 +1,86 @@
+[
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Introduction to Atoms and Nuclei"},
+            {"para": "Everything around us is made of tiny particles called atoms. At the center of an atom is the nucleus, which contains protons and neutrons, while electrons zoom around the outside."}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Protons, Neutrons, and Electrons"},
+            {"para": "Protons are positively charged, neutrons have no charge, and electrons are negatively charged. The number of protons in an atom decides what element it is."}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Atomic Mass and Structure"},
+            {"para": "The atomic mass is the total number of protons and neutrons in the nucleus. Different elements have different atomic masses depending on the number of protons and neutrons they contain."}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Introduction to Radioactivity"},
+            {"para": "Some atoms are unstable and break down over time, releasing energy. This process is called radioactivity, and it happens in the nucleus."}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Types of Radiation"},
+            {"para": "There are three main types of radiation: alpha, beta, and gamma. Alpha particles are the heaviest, beta particles are fast-moving electrons, and gamma rays are energy waves."}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Alpha Radiation"},
+            {"para": "Alpha radiation releases particles with two protons and two neutrons. It's big and heavy, but it can be stopped by something as light as paper!"}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Beta Radiation"},
+            {"para": "Beta radiation is made of fast-moving electrons. It can pass through paper, but something thicker, like aluminum, can stop it."}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Gamma Radiation"},
+            {"para": "Gamma rays are waves of energy, not particles. They can pass through almost anything, even metals, but thick lead can block them."}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Nuclear Energy"},
+            {"para": "Nuclear energy comes from the nucleus of an atom. It can be released by breaking apart the nucleus (fission) or by joining two nuclei together (fusion)."}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Nuclear Fission"},
+            {"para": "In nuclear fission, a large atom, like uranium, splits into two smaller atoms. This releases a lot of energy, which can be used to make electricity."}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Nuclear Fusion"},
+            {"para": "In nuclear fusion, two small atoms, like hydrogen, combine to form a larger atom. Fusion powers the sun and gives off even more energy than fission!"}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Everyday Uses of Nuclear Physics"},
+            {"para": "Nuclear physics isn't just for power plants—it's also used in medicine (for X-rays) and to keep our food fresh with radiation."}
+        ]
+    }
+]

@@ -2,64 +2,56 @@
     {
         "type": "learn",
         "con": [
-            {"title": "What is Energy?"},
-            {"para": "Energy is the ability to do work! It makes things move, light up, and power machines."}
+            {"title": "The Law of Universal Gravitation"},
+            {"para": "Gravity is a force that pulls objects toward one another, and it was first fully explained by Sir Isaac Newton through his *Law of Universal Gravitation.*"},
+            {"para": "According to this law, every object in the universe attracts every other object with a force that is directly proportional to the product of their masses and inversely proportional to the square of the distance between them. The formula for this law is:"},
+            {"img": "1.webp"},
+            {"para": "where F is the gravitational force, G is the gravitational constant, m1and m2 are the masses of the two objects, and r2 is the distance between their centers."},
+            {"para": "This law explains why objects fall to the ground and why planets stay in orbit around the Sun. The more massive an object is, the stronger its gravitational pull. "},
+            {"para": "However, as the distance between objects increases, the gravitational force weakens significantly. This is why gravity is stronger on Earth’s surface than in space."}
         ]
     },
     {
         "type": "learn",
         "con": [
-            {"title": "Gravity Keeps Us on Earth"},
-            {"para": "Gravity pulls everything toward the center of the Earth, so we don’t float away into space!"}
+            {"title": "Gravitational Field and Force"},
+            {"para": "A *gravitational field* is the region of space around a mass where other objects experience a gravitational force. The strength of the gravitational field depends on the mass of the object creating it. For example, Earth has a strong gravitational field because of its large mass, while smaller objects like the Moon have weaker fields."},
+            {"para": "*Gravitational force* is the force that a mass experiences when it is within the gravitational field of another mass. Near Earth, this force pulls objects toward the ground. The force of gravity on Earth gives us our weight and keeps everything grounded. "},
+            {"para": "The strength of the gravitational force depends on both the mass of the objects involved and the distance between them."},
+            {"para": "In space, gravitational fields from large objects like stars and planets extend far and wide, influencing the motion of other celestial bodies. This is why planets orbit stars, and moons orbit planets."}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Mass vs. Weight"},
+            {"para": "*Mass* and *weight* are often confused, but they are not the same thing."},
+            {"para": "*Mass* is the amount of matter in an object, and it remains constant no matter where the object is. Mass is measured in kilograms (kg) and does not change whether you are on Earth, the Moon, or in space."},
+            {"para": "*Weight*, on the other hand, is the force exerted by gravity on an object’s mass. Weight is measured in newtons (N) and depends on both the object’s mass and the gravitational force acting on it. "},
+            {"para": "The formula to calculate weight is:"},
+            {"para": "2.webp"},
+            {"para": "On Earth, the gravitational acceleration is approximately 9.8 m/s², so your weight is your mass multiplied by 9.8. If you were on the Moon, where gravity is weaker, you would weigh less, but your mass would stay the same."}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Free Fall and Terminal Velocity"},
+            {"para": "When an object falls under the influence of gravity alone, we call this *free fall*."},
+            {"para": "In free fall, the only force acting on the object is gravity, and it accelerates toward the ground. The acceleration due to gravity is constant near Earth’s surface and is about 9.8 m/s²."},
+            {"para": "However, as objects fall through the air, they encounter *air resistance*, which pushes back against their motion. As the object speeds up, the air resistance increases until it balances the gravitational force. When this happens, the object stops accelerating and falls at a constant speed called *terminal velocity*."},
+            {"para": "For example, skydivers reach terminal velocity after a few seconds of free fall. At this point, they stop speeding up and continue to fall at a steady rate until they open their parachutes."}
         ]
     },
     {
         "type": "learn",
         "con": [
             {"title": "Gravity in Space"},
-            {"para": "Gravity also keeps the Moon in orbit around the Earth and the planets around the Sun. That’s why we have day and night and why the planets don’t fly away!"}
-        ]
-    },
-    {
-        "type": "learn",
-        "con": [
-            {"title": "Why Do Things Fall?"},
-            {"para": "When you drop something, gravity pulls it down. The heavier it is, the more it is pulled down!"}
-        ]
-    },
-    {
-        "type": "learn",
-        "con": [
-            {"title": "Weight vs. Mass"},
-            {"para": "Mass is how much stuff an object has. Weight is how much gravity pulls on that mass. That’s why you weigh less on the Moon but your mass stays the same!"}
-        ]
-    },
-    {
-        "type": "learn",
-        "con": [
-            {"title": "Free Fall and Air Resistance"},
-            {"para": "In free fall, only gravity pulls an object down. But in real life, air pushes against falling objects, slowing them down. This is called air resistance."}
-        ]
-    },
-    {
-        "type": "learn",
-        "con": [
-            {"title": "Gravity and Speed"},
-            {"para": "The speed of a falling object increases as it falls because gravity pulls it down faster and faster!"}
-        ]
-    },
-    {
-        "type": "learn",
-        "con": [
-            {"title": "Zero Gravity – What’s That?"},
-            {"para": "In space, astronauts experience something called \"zero gravity.\" It’s not that there’s no gravity—it’s just that they’re falling around Earth, so they feel weightless!"}
-        ]
-    },
-    {
-        "type": "learn",
-        "con": [
-            {"title": "Gravity Affects Everything"},
-            {"para": "Gravity affects everything, from the oceans (creating tides) to the shape of the Earth! Can you find other places where gravity is at work?"}
+            {"para": "Gravity exists everywhere in the universe, even in space, but its effects change depending on the distance from massive objects like planets and stars."},
+            {"para": "In space, the gravitational pull from Earth weakens, which is why astronauts experience *microgravity.*"},
+            {"para": "*Microgravity* refers to the very small gravitational forces that astronauts feel while orbiting Earth, giving the sensation of *weightlessness.*"},
+            {"para": "Even though astronauts feel weightless, gravity is still acting on them. They are in a state of continuous free fall toward Earth, but because they are moving sideways at such high speeds, they keep missing Earth. This is what allows them to orbit the planet. "},
+            {"para": "In this environment, everyday activities like walking, eating, and sleeping are completely different, as everything floats around."}
         ]
     }
 ]

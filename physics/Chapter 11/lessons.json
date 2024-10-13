@@ -1,0 +1,79 @@
+[
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Introduction to Quantum Physics"},
+            {"para": "Quantum physics explains how the tiniest particles in the universe work. Unlike regular physics, things in the quantum world don’t follow the usual rules!"}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Basics of Quantum Mechanics"},
+            {"para": "In the quantum world, particles behave in strange ways. Sometimes they act like particles, sometimes like waves! This is why quantum physics is so different."}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "The Particle-Wave Duality"},
+            {"para": "Light can be both a particle and a wave at the same time! This is called the particle-wave duality. It’s why light can shine through glass (like a wave) but can also push objects (like a particle)."}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Introduction to Relativity Theory"},
+            {"para": "Relativity, discovered by Albert Einstein, explains how time and space are connected. It helps us understand how things move at really high speeds, close to the speed of light."}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Special Relativity: Time Dilation"},
+            {"para": "Special relativity says that time moves slower for something moving really fast. This is called time dilation. Astronauts traveling close to the speed of light would age more slowly!"}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Special Relativity: Length Contraction"},
+            {"para": "Length contraction happens when objects moving at high speeds appear shorter to someone watching. If a spaceship zooms past, it will look shorter than it really is!"}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "General Relativity: Gravity as Spacetime Curvature"},
+            {"para": "General relativity says that gravity isn’t just a force—it’s the bending of space and time. Large objects like Earth or the Sun bend spacetime, and that’s why things fall towards them."}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Introduction to Subatomic Particles"},
+            {"para": "Atoms are made up of even smaller particles, like electrons, neutrinos, and quarks. These tiny particles are the building blocks of everything!"}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Electrons, Neutrinos, and Quarks"},
+            {"para": "Electrons orbit the nucleus of an atom. Neutrinos are tiny, nearly invisible particles that rarely interact with anything. Quarks combine to form protons and neutrons."}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "The Standard Model of Particle Physics"},
+            {"para": "The Standard Model explains all the particles that make up the universe, like electrons, quarks, and neutrinos. It’s like a recipe book for the universe!"}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "The Importance of Modern Physics"},
+            {"para": "Modern physics helps us understand things like how the universe started, how stars shine, and how technology like computers and GPS work!"}
+        ]
+    }
+]

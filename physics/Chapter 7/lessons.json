@@ -1,0 +1,72 @@
+[
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Introduction to Electricity"},
+            {"para": "Electricity is a type of energy that powers many things around us. From lights to computers, electricity makes life easier! But what is electricity? Let's learn about it!"}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Electric Current"},
+            {"para": "Electric current is like a flow of water in a river, but instead of water, it's tiny particles called electrons that move through wires. It helps power devices when they are plugged in."}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Voltage and Resistance"},
+            {"para": "Voltage is like the \"push\" that makes the electric current flow. Resistance slows down the current, like a narrow river that makes water flow slower. Different materials resist the flow differently."}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Series and Parallel Circuits"},
+            {"para": "There are two types of circuits: series and parallel. In a series circuit, electricity flows in one path. In a parallel circuit, electricity flows through more than one path, so if one light goes out, the others stay on!"}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Introduction to Magnetism"},
+            {"para": "Magnetism is an invisible force that pulls certain metals toward magnets. Magnets have two poles—north and south. Opposite poles attract, and similar poles repel each other."}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Magnetic Fields"},
+            {"para": "Magnetic fields are areas around a magnet where magnetic forces can be felt. The earth itself is like a giant magnet with a magnetic field!"}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Permanent vs. Electromagnets"},
+            {"para": "A permanent magnet always has magnetic power, like the ones on your fridge. An electromagnet is only magnetic when electric current flows through it."}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Electromagnetism"},
+            {"para": "Electricity and magnetism are linked! Moving electric current creates a magnetic field. This is called electromagnetism, and it's how devices like motors work."}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": " Electromagnetic Induction"},
+            {"para": "Electromagnetic induction is the process of generating electric current using magnets. This is how generators in power plants produce electricity for our homes."}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Everyday Uses of Electricity and Magnetism"},
+            {"para": "We use electricity and magnetism in so many ways every day! From refrigerators to electric cars, both electricity and magnets help make things work."}
+        ]
+    }
+]

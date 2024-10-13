@@ -1,0 +1,86 @@
+[
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Introduction to Heat and Temperature"},
+            {"para": "Heat is the energy that makes things warmer. Temperature is how hot or cold something is. Heat flows from hot things to cold things, like how the sun heats the Earth."}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "What is Heat?"},
+            {"para": "Heat is energy in motion! When you touch something warm, like a cup of hot chocolate, heat is moving from the cup to your hand."}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Heat vs. Temperature"},
+            {"para": "Heat is the total energy of moving particles in an object, while temperature measures how fast those particles are moving. A big object can have more heat than a smaller, hotter object!"}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": " Methods of Heat Transfer"},
+            {"para": "Heat moves in three ways: conduction, convection, and radiation. Each way moves heat differently!"}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Conduction"},
+            {"para": "Conduction is when heat moves through direct contact. When you touch a hot pan, heat is conducted from the pan to your hand!"}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Convection"},
+            {"para": "Convection happens when heat moves through liquids and gases. Like when warm air rises and cool air sinks, forming a cycle of heat transfer."}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Radiation"},
+            {"para": "Radiation is heat that moves through empty space, like sunlight warming your face. No contact is needed!"}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "The Laws of Thermodynamics: Energy Conservation"},
+            {"para": "The First Law of Thermodynamics says energy cannot be created or destroyed, only transferred. When heat moves, energy is conserved—it doesn’t disappear!"}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "The Second Law of Thermodynamics: Entropy"},
+            {"para": "The Second Law says that heat naturally flows from hot to cold, making things more disordered. This is called entropy, and it explains why hot coffee cools down!"}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Thermodynamic Efficiency"},
+            {"para": "Machines that convert energy, like engines, can never be 100% efficient. Some energy always gets lost as heat, reducing efficiency."}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Thermal Expansion"},
+            {"para": "When things get hot, they expand. That’s why a metal bridge or train track needs gaps to allow for expansion in hot weather!"}
+        ]
+    },
+    {
+        "type": "learn",
+        "con": [
+            {"title": "Everyday Examples of Heat and Thermodynamics"},
+            {"para": "We experience heat transfer and thermodynamics every day—from cooking food to feeling the warmth of the sun. Where can you spot heat transfer in your home?"}
+        ]
+    }
+]
