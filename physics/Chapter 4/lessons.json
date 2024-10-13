@@ -29,7 +29,7 @@
             {"para": "*Mass* is the amount of matter in an object, and it remains constant no matter where the object is. Mass is measured in kilograms (kg) and does not change whether you are on Earth, the Moon, or in space."},
             {"para": "*Weight*, on the other hand, is the force exerted by gravity on an object’s mass. Weight is measured in newtons (N) and depends on both the object’s mass and the gravitational force acting on it. "},
             {"para": "The formula to calculate weight is:"},
-            {"para": "2.webp"},
+            {"img": "2.webp"},
             {"para": "On Earth, the gravitational acceleration is approximately 9.8 m/s², so your weight is your mass multiplied by 9.8. If you were on the Moon, where gravity is weaker, you would weigh less, but your mass would stay the same."}
         ]
     },
