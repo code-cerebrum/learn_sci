@@ -32,6 +32,30 @@
         ]
     },
     {
+        "type": "mcq",
+        "con": {
+            "ques": "Which of the following is an example of a contact force?",
+            "op": [
+                "Friction",
+                "Magnetic force",
+                "Gravity",
+                "Electric force"
+            ]
+        }
+    },
+    {
+        "type": "mcq",
+        "con": {
+            "ques": "What is a non-contact force?",
+            "op": [
+                "A force that acts without physical contact",
+                "A force that acts only when objects touch",
+                "A force that is always associated with gravity",
+                "A force that depends on the material of the object"
+            ]
+        }
+    },
+    {
         "type": "learn",
         "con": [
             {"title": "Energy"},
@@ -56,6 +80,30 @@
         ]
     },
     {
+        "type": "mcq",
+        "con": {
+            "ques": "Which of the following describes kinetic energy?",
+            "op": [
+                "Energy of motion",
+                "Stored energy",
+                "Energy due to temperature",
+                "Energy created by friction"
+            ]
+        }
+    },
+    {
+        "type": "mcq",
+        "con": {
+            "ques": "What is potential energy?",
+            "op": [
+                "Stored energy",
+                "Energy of motion",
+                "Energy that cannot change",
+                "The sum of kinetic and mechanical energy"
+            ]
+        }
+    },
+    {
         "type": "learn",
         "con": [
             {"title": "Mechanical energy"},
@@ -64,6 +112,18 @@
             {"para": "For example, a moving roller coaster at the top of a track has both kinetic energy (because it's moving) and potential energy (because of its height)."},
             {"para": "The key to understanding energy is that it can change from one form to another, but it is never lost. This is called the *conservation of energy.*"}
         ]
+    },
+    {
+        "type": "mcq",
+        "con": {
+            "ques": "Mechanical energy is a combination of:",
+            "op": [
+                "Kinetic energy and potential energy",
+                "Thermal energy and nuclear energy",
+                "Sound energy and light energy",
+                "Chemical energy and mechanical advantage"
+            ]
+        }
     },
     {
         "type": "learn",
@@ -87,6 +147,18 @@
             {"para": "The amount of work done depends on both the force you apply and the distance the object moves. If the object doesn’t move, no work is done, even if you’re pushing as hard as you can."},
             {"img": "15.webp"}
         ]
+    },
+    {
+        "type": "mcq",
+        "con": {
+            "ques": "What does the principle of energy conservation state?",
+            "op": [
+                "Energy cannot be created or destroyed",
+                "Energy is constantly created",
+                "Energy can only be transferred through work",
+                "Energy remains constant as kinetic energy"
+            ]
+        }
     },
     {
         "type": "learn",
@@ -113,5 +185,41 @@
             {"para": "Machines or processes that are more efficient waste less energy and can do the same amount of work using less power."},
             {"para": "Efficiency can be calculated as a percentage by comparing the amount of useful energy to the total energy input."}
         ]
+    },
+    {
+        "type": "mcq",
+        "con": {
+            "ques": "When is work done?",
+            "op": [
+                "When a force is applied, and an object moves",
+                "When an object is stationary",
+                "When no force is applied to an object",
+                "When friction is reduced"
+            ]
+        }
+    },
+    {
+        "type": "mcq",
+        "con": {
+            "ques": "What is power in physics?",
+            "op": [
+                "The rate at which work is done",
+                "The amount of work done",
+                "The speed of an object",
+                "The energy lost as heat"
+            ]
+        }
+    },
+    {
+        "type": "mcq",
+        "con": {
+            "ques": "Which formula is used to calculate power?",
+            "op": [
+                "Power = Work / Time",
+                "Power = Force × Distance",
+                "Power = Force / Time",
+                "Power = Energy / Distance"
+            ]
+        }
     }
 ]
