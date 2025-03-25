@@ -1,5 +1,19 @@
 [
     {
+        "type": "fill",
+        "con": {
+            "ques": "The ____ revolves around the ____.",
+            "op": [
+                "Earth",
+                "Sun",
+                "Moon",
+                "Mars",
+                "Jupiter"
+            ],
+            "ans": ["Earth, Sun"]
+        }
+    },
+    {
         "type": "mcq",
         "con": {
             "ques": "What does Physics study?",
