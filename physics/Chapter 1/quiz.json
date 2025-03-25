@@ -2,6 +2,13 @@
     {
         "type": "input",
         "con": {
+            "ques": "hello ____. There are ____ guys ____",
+            "ans": ["there", "few", "here"]
+        }
+    },
+    {
+        "type": "input",
+        "con": {
             "ques": "x = 5\ny=5\n____+____",
             "ans": ["x", "y"]
         }
