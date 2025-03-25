@@ -1,5 +1,12 @@
 [
     {
+        "type": "input",
+        "con": {
+            "ques": "x = 5\ny=5\n____+____",
+            "ans": ["x", "y"]
+        }
+    },
+    {
         "type": "fill",
         "con": {
             "ques": "The ____ revolves around the ____.",
