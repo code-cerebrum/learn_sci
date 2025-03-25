@@ -28,6 +28,20 @@
         }
     },
     {
+        "type": "fill",
+        "con": {
+            "ques": "The ____ revolves around the ____.",
+            "op": [
+                "One",
+                "Two",
+                "Moon",
+                "Mars",
+                "Jupiter"
+            ],
+            "ans": ["One", "Two"]
+        }
+    },
+    {
         "type": "mcq",
         "con": {
             "ques": "What does Physics study?",
